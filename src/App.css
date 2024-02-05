@@ -1,0 +1,47 @@
+.container {
+  padding: 15px;
+  font-size: 14px;
+}
+.post {
+  width: 250px;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(185, 182, 182);
+  border-radius: 5px;
+}
+.post__date {
+  color: grey;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.addbutton, .addform__submit, .editform__submit {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(61, 171, 61);
+  color: white;
+  border: 0;
+  border-radius: 5px;
+}
+.addform__input, .editform__input {
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid rgb(185, 182, 182);
+  border-radius: 5px;
+}
+.post__edit_button {
+  padding: 10px;
+  margin-top: 10px;
+  margin-right: 5px;
+  background-color: rgb(96, 157, 236);
+  color: white;
+  border: 0;
+  border-radius: 5px;
+}
+.post__delete_button {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: red;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+}
